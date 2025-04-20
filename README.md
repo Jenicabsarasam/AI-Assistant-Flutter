@@ -1,16 +1,27 @@
-# ai_assistant
+# AI Assistant
 
-A new Flutter project.
+AI Assistant is an intelligent application that integrates with various APIs and provides a seamless experience for users by offering features such as chat capabilities,Image Generation, API integrations, and more. This project is built using Flutter and supports multiple platforms including mobile (Android & iOS), web, and desktop (Windows, macOS, Linux).
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Chat Functionality**: Communicate with an AI assistant to get responses to your queries.
+- **Image Generation**: Real time Image generation based on your prompt
+- **API Integrations**: Connect to various external APIs like Gemini, Hugging Face, and more to fetch real-time data and interact with different services.
+- **User Authentication**: Secure user login and registration system.
+- **Cross-Platform Support**: Works on Android, iOS, Windows, macOS, and Linux platforms.
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Requirements
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter SDK 2.x or later
+- Dart SDK 2.x or later
+- Git
+
+###Acknowledgments
+Gemini for providing powerful AI models.
+
+Hugging Face for providing NLP models and APIs.
+
+Flutter for enabling cross-platform development.
+
