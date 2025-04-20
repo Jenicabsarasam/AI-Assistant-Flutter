@@ -18,7 +18,7 @@ AI Assistant is an intelligent application that integrates with various APIs and
 - Dart SDK 2.x or later
 - Git
 
-###Acknowledgments
+### Acknowledgments
 Gemini for providing powerful AI models.
 
 Hugging Face for providing NLP models and APIs.
